@@ -6,4 +6,5 @@
 2.Run **npm install** to install node packages.<br>
 3.Run **npm run dev** to start development server. 
 ### License
+GNU GENERAL PUBLIC LICENSE, Version 3<br>
 
