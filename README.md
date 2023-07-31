@@ -7,4 +7,6 @@
 3.Run **npm run dev** to start development server. 
 ### License
 GNU GENERAL PUBLIC LICENSE, Version 3<br>
+https://github.com/monika-000/contacts_app_vuejs/blob/master/LICENSE
+
 
